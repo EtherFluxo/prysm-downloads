@@ -1,13 +1,18 @@
 {
-  "propagandaAoIniciar": true,
-  "intervaloMidRollMinutos": 4,
-  "tempoParaPularSegundos": 5,
   "dono": {
     "empresa": "Prysm Premium",
     "url": "https://raw.githubusercontent.com/EtherFluxo/prysm-downloads/main/download.mp4"
   },
   "clientes": [
-    { "empresa": "Cliente Patrocinador 1", "url": "https://www.w3schools.com/html/mov_bbb.mp4" },
-    { "empresa": "Cliente Patrocinador 2", "url": "https://media.w3.org/2010/05/sintel/trailer.mp4" }
-  ]
+    {
+      "empresa": "Cliente Patrocinador 1",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+      "empresa": "Cliente Patrocinador 2",
+      "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
+    }
+  ],
+  "propagandaAoIniciar": true,
+  "intervaloMidRollMinutos": 4
 }
