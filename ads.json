@@ -1,6 +1,6 @@
 {
   "propagandaAoIniciar": true,
-  "intervaloMidRollMinutos": 2,
+  "intervaloMidRollMinutos": 4,
   "tempoParaPularSegundos": 5,
   "dono": {
     "empresa": "Prysm Premium",
