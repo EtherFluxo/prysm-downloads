@@ -1,7 +1,7 @@
 {
   "propagandaAoIniciar": true,
   "intervaloMidRollMinutos": 1,
-  "tempoParaPularSegundos": 10,
+  "tempoParaPularSegundos": 5,
   "dono": {
     "empresa": "Prysm Premium",
     "url": "https://raw.githubusercontent.com/EtherFluxo/prysm-downloads/main/download.mp4"
